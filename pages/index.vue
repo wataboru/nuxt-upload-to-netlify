@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        netlify-test
+        netlify-test by nuxt.js
       </h1>
       <h2 class="subtitle">
         test project for upload to netlify
